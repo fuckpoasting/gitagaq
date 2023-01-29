@@ -1,0 +1,6 @@
+__pycache__
+scratch
+credentials
+.vscode
+.streamlit/secrets.toml
+.ipynb_checkpoints
